@@ -12,11 +12,3 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
-#제미나이3의 조언에 따른 플러그인 추가
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-  gem "jekyll-paginate"
-  gem "jekyll-archives"
-end
