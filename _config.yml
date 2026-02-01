@@ -224,10 +224,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# Plugins 관련 설정을 추가합니다.
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jarchives
