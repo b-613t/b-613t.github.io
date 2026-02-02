@@ -226,7 +226,6 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
