@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://b-613t.github.io"
 
 github:
-  username: b-613t # change to your GitHub username
+  username:  # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -38,13 +38,13 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://b-613.tistory.com
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://b-613.tistory.com
-
+    
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
