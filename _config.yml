@@ -14,6 +14,8 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+logo: /assets/img/avatar.jpg
+
 title: 불경한 서재 # the main title
 
 tagline: 살아있을 때 쌓아 올리는, 쓸데없는 생각들을 위한 피라미드  # it will display as the subtitle
