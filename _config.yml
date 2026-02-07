@@ -150,6 +150,9 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
+# 수학 수식 활성화 (MathJax)
+math: true
+
 paginate: 10
 
 # The base URL of your site
