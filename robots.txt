@@ -1,3 +1,4 @@
 User-agent: *
+allow: /
 Disallow:
 Sitemap: https://b-613t.github.io/sitemap.xml
