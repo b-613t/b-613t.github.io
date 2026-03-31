@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /tags/
-Disallow: /categories/
+Disallow:
 Sitemap: https://b-613t.github.io/sitemap.xml
