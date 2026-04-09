@@ -7,6 +7,9 @@ math: true
 lang: en
 description: "Interpreting the logical paradox of the Trinity through the lens of imaginary numbers and axiomatic systems in mathematics."
 ---
+_This document was translated from Korean to English using Gemini 3 Flash._  
+_The original Korean version is available at [here](https://b-613t.github.io/posts/trinity-from-a-non-believers-view/)._
+---
 ## 1. An Outsider's View: The Bible as a World-Building Setting
 
 Christian believers often grapple with the reality of the Trinity, frequently questioning how it is logically possible for "three to be one." However, from the perspective of a non-believer like myself, the Trinity is not a particularly difficult concept. For someone who doesn't believe, the Bible is essentially a unique "world-building setting guide." If one accepts the declarations found therein—especially in the Gospel of John—at face value, the Trinity emerges as a natural conclusion.
