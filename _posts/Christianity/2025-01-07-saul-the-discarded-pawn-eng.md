@@ -3,11 +3,12 @@ title: "Saul: The Pawn Abandoned by God"
 date: 2026-04-10 00:00:00 +0900
 categories: [Christianity]
 tags: [Saul, David, Samuel, Biblical Interpretation, Tragedy]
+lang: en
 description: "An exploration of the tragic life of Saul, Israel's first king, and why he seemed destined to be a pawn discarded by the divine."
 ---
 _This document was translated from Korean to English using Gemini 3 Flash._  
 _The original Korean version is available at [here](https://b-613t.github.io/posts/saul-the-discarded-pawn/)._
----
+<hr>
 Saul was the first king of Israel. He was chosen after the elders of the various tribes persistently requested a king from the judge Samuel. When Samuel asked God to designate a king, God’s reaction was lukewarm, essentially saying, "They want to serve a king rather than me? Let them have their way" (1 Samuel 8:7). God then designated Saul (1 Samuel 9:15–17). This indifferent response might have been rooted in the negative memory of the tyranny and chaos caused by Abimelech, the wicked son of the hero Gideon who had styled himself king of Shechem.
 
 Once chosen, Saul was actually a decent king. He was brave in defeating enemies and possessed an upright character. However, due to what seems like divine caprice, he found himself in the position of a protagonist in a Greek tragedy. Saul was someone God appointed with reluctance; God seemingly found little to admire in him. It appeared as though God was simply waiting for Saul to stumble.
