@@ -1,7 +1,7 @@
 ---
 title: "Epistle of Pahanism, Chapter 2 - The Arena of Amusement: From Eden to Abraham's Covenant and Job's Suffering"
 date: 2026-03-19 00:00:00 +0900
-categories: [Christianity, Pahanism]
+categories: [Christianity]
 tags: [Old Testament, Garden of Eden, Noah's Ark, Abraham, Book of Job]
 lang: en
 description: A reinterpretation of the Old Testament's dilemmas through the lens of the Almighty Creator's 'boredom.' It portrays the hidden divine amusements behind the forbidden fruit of Eden, the Tower of Babel, and Job's suffering as an existential dark comedy.
