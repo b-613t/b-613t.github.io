@@ -7,8 +7,7 @@ math: true
 lang: en
 description: "Interpreting the logical paradox of the Trinity through the lens of imaginary numbers and axiomatic systems in mathematics."
 ---
-_This document was translated from Korean to English using Gemini 3 Flash._  
-_The original Korean version is available at [here](https://b-613t.github.io/posts/trinity-from-a-non-believers-view/)._
+_The original Korean version is available at [here](https://b-613t.github.io/posts/trinity-from-a-non-believers-view/)._  
 ---
 ## 1. An Outsider's View: The Bible as a World-Building Setting
 
@@ -56,5 +55,4 @@ Instead of focusing on what can be gained by accepting the Trinity, centuries of
 Perhaps believers find the Trinity so difficult to accept—unlike non-believers—precisely because they view it not as a mere combination of axioms, but as the fundamental truth of the world. Could it be that the very love for God that drives them to imagine and approach His reality becomes the obstacle to accepting the Trinity as pure mystery? This struggle is not just about a closed logical system; it is a "struggle of love" toward a Person, making the journey all the more difficult and wondrous.
 
 ---
-_This document was translated from Korean to English using Gemini 3 Flash._  
-_The original Korean version is available at [here](https://b-613t.github.io/posts/trinity-from-a-non-believers-view/)._
+_The original Korean version is available at [here](https://b-613t.github.io/posts/trinity-from-a-non-believers-view/)._  
