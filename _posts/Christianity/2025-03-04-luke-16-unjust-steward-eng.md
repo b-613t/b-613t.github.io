@@ -6,7 +6,6 @@ tags: [Luke, Parable of the Unjust Steward, Biblical Interpretation, Unrighteous
 lang: en
 description: "Exploring the precise meaning of the Parable of the Unjust Steward—one of the most challenging paradoxes in the Bible—to uncover what Jesus truly intended to communicate."
 ---
-_This document was translated from Korean to English using Gemma 4 31B IT._  
 _The original Korean version is available at [here](https://b-613t.github.io/posts/luke-16-unjust-steward/)._
 ---
 ## 1. Summary of the Parable
@@ -93,5 +92,4 @@ Ultimately, the Parable of the Unjust Steward conveys Jesus' deep teaching to se
 Perhaps humbly learning and utilizing "worldly wisdom"—such as the logical analysis of a lawyer, the contextual understanding of a historian, or the textual interpretation of a literary critic—can help children of light explore the truths of the Bible more deeply and responsibly. This is not a replacement for the essence of faith, but an effort to more clearly understand and practice the truth we have been entrusted with. Ultimately, this parable challenges us to combine faithful belief with the "urgency and wisdom" to discern and effectively implement God's will in reality, serving both God and our neighbors.
 
 ---
-_This document was translated from Korean to English using Gemma 4 31B IT._  
 _The original Korean version is available at [here](https://b-613t.github.io/posts/luke-16-unjust-steward/)._
