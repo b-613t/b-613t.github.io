@@ -18,7 +18,7 @@ logo: /assets/img/avatar.webp
 
 title: 불경한 서재 # the main title
 
-tagline: 살아있을 때 쌓아 올리는, 쓸데없는 생각들을 위한 피라미드  # it will display as the subtitle
+tagline: "살아있을 때 쌓아 올리는, 쓸데없는 생각들을 위한 피라미드 <br> English posts on this blog are AI-translated versions of the original Korean content." # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   성경 난제 주해, 성경 팬픽, 불교 교리 해설, SF 소설, 베이즈 에세이. 경전의 빈틈을 파고드는 실험적 글 모음. 삼성 덱스 활용법.
