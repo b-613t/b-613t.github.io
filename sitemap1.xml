@@ -1,0 +1,31 @@
+---
+layout: null
+permalink: /sitemap1.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 메인 홈 (더블 슬래시 방지 위해 url 끝에 자동으로 /가 들어가도록 셋팅) -->
+  <url>
+    <loc>{{ site.url | append: '/' | replace: '//', '/' | replace: 'https:/', 'https://' }}</loc>
+  </url>
+
+  <!-- About 페이지 (더블 슬래시 방지) -->
+  <url>
+    <loc>{{ site.url | append: '/about/' | replace: '//', '/' | replace: 'https:/', 'https://' }}</loc>
+  </url>
+
+  <!-- 포스트 목록 -->
+  {% for post in site.posts %}
+  <url>
+    <loc>{{ site.url | append: post.url | replace: '//', '/' | replace: 'https:/', 'https://' }}</loc>
+    {% if post.last_modified_at %}
+    <lastmod>{{ post.last_modified_at | date_to_xmlschema }}</lastmod>
+    {% elsif post.date %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% endif %}
+  </url>
+  {% endfor %}
+
+</urlset>
