@@ -10,90 +10,138 @@ _The original Korean version is available at [here](https://b-613t.github.io/pos
 ---
 ## 1. Summary of the Parable
 
-In Luke 16, we find the Parable of the Unjust Steward, one of the most perplexing teachings of Jesus. Briefly, the story goes like this:
+In Luke 16, Jesus presents one of the most enigmatic and difficult passages in the Gospels: the Parable of the Unjust Steward. To summarize the narrative:
 
-> A manager (steward) who had been squandering his rich master's possessions was caught. The master announced his dismissal and demanded an account of his management. Losing his economic foundation, the steward decided to make a scheme so that others would welcome him into their homes. He summoned his master's debtors and forged the documents to reduce their debts, hoping to win their favor and rely on them in the future. Seeing this, the master commended the dishonest steward because he had acted shrewdly. Jesus then tells his disciples to use worldly (unrighteous) wealth to make friends, so that when it is gone, they will be welcomed into eternal dwellings. He comments that the people of this world are more shrewd in dealing with their own kind than are the people of the light. He follows this by stating that whoever can be trusted with very little can also be trusted with much, and concludes that no one can serve two masters—both God and money.
+> A wealthy man’s asset manager (steward) is caught squandering his master's property. The master informs the steward of his dismissal and demands a final accounting of the books. Stripped of his economic livelihood, the steward schemes to secure a safety net for himself. He summons his master’s debtors one by one and falsifies their promissory notes to reduce the debts recorded on the ledgers. By currying favor with these debtors, he hopes they will take him in once he is out on the street.
+>
+>Upon seeing this, the master actually commends the unjust steward for acting shrewdly. Jesus then tells his listeners to make friends for themselves by means of unrighteous wealth (mammon), so that when it fails, they may be received into eternal dwellings. He observes that the children of this world are more shrewd in dealing with their own generation than the children of light. He follows this by stating that one who is faithful in very little is also faithful in much, and concludes that one cannot serve both God and money.
 {: .prompt-info}
 
-Usually, Jesus' parables are intuitive and easy to understand, but this specific parable almost seems incoherent. Superficially, it appears to encourage doing whatever it takes to secure personal gain, which seems highly absurd. Why did Jesus use such an anomalous parable? Perhaps he was putting into practice what is described in Matthew 13:10-17, Mark 4:10-12, and Luke 8:9-10:
+While most of Jesus' parables are intuitive and accessible, the Parable of the Steward appears at first glance to be convoluted and disjointed. On the surface, the story seems almost absurd—as if it is actively encouraging people to pursue self-interest by any means necessary, including fraud. Why did Jesus present such a seemingly contradictory parable? 
 
-**"The knowledge of the secrets of the kingdom of heaven has been given to you, but not to them... though seeing, they may not see; though hearing, they may not understand or turn and be forgiven."**
+Perhaps Jesus was putting into practice what is recorded in Matthew 13:10–17, Mark 4:10–12, and Luke 8:9–10:  
+> *"To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given... so that seeing they may not see, and hearing they may not understand, lest they should turn and be forgiven."*
 
-I have yet to come across a satisfying theological commentary on this parable. Therefore, I will attempt to analyze it myself to derive an interpretation that makes logical and theological sense.
-<br>
+Having yet to encounter a theological commentary on this parable that is entirely satisfying and logically cohesive, I have undertaken my own close analysis to construct an interpretation that stands up to critical scrutiny.
 
-## 2. Traditional Interpretations and Their Flaws
+---
 
-### Emphasizing the Positive Aspect of Shrewdness?
+## 2. Traditional Interpretations and Their Inherent Flaws
 
-Traditional interpretations often argue that the master's satisfaction with the steward's cleverness emphasizes the positive aspects of being shrewd. Some assign a superficial and forced meaning to the story, framing the breach of trust (reducing debts via document forgery) as a "good deed" that helps the poor. Others suggest looking at the eschatological context, interpreting the steward's dismissal as a symbol of the end times and his actions as the need for swift preparation for judgment. 
+A common traditional interpretation focuses on the master’s praise of the steward's cleverness, framing it as an endorsement of practical wisdom or resourcefulness. Some commentators go so far as to attach a superficial, strained moral value to the steward’s breach of trust, claiming that reducing the debtors' burdens was an act of charity toward the poor. Others argue from a socio-historical context that the steward’s dismissal prefigures the eschatological end-times, symbolizing the urgency of taking decisive action before impending judgment.
 
-However, these interpretations feel like they are forcibly clinging to the literal surface of Jesus' words while missing the core of the parable. Does the master's praise for unscrupulous cleverness mean that we, as creatures, should "wisely" commit embezzlement against God's sovereignty? Does it mean embezzlement is always praiseworthy as long as it benefits the poor? Are the children of light supposed to learn the audacity to commit fraud right before facing the final judgment? After all, the "end" (dismissal) was brought on by the steward's own sins—is Jesus telling us to add more sin on top of that? At a glance, these are fragmented, forced interpretations and logical leaps.
+However, such readings merely cling to the surface level of Jesus' words, missing the core essence of the parable. Does the master's praise of the steward’s unscrupulous ingenuity mean that created beings should wisely practice embezzlement and breach of trust against God’s sovereignty? Does it mean that fraud is inherently commendable as long as it benefits the poor? Are the children of light supposed to emulate the audacity of committing financial crimes right on the threshold of the Final Judgment? Furthermore, the steward's impending doom was brought on entirely by his own sins in the first place—is he being told to pile more sin on top of it? Even on a cursory examination, these interpretations rely on selective leaps of logic.
 
-### Could the Debtors Really Provide the Steward with an Eternal Dwelling?
+If someone were to take these traditional readings at face value and practice "shrewd unrighteousness," they would certainly move further away from the mysteries of the Kingdom of Heaven. A faithful reader must labor to extract a coherent, enduring truth despite the parable's apparent difficulty.
 
-If someone actually accepted the conventional interpretations and "wisely" committed unrighteous acts, they would certainly distance themselves from the secrets of the Kingdom. A person of faith must strive to extract the acceptable truth despite the parable's difficulty.
+A steward is an agent entrusted with the management of his master’s estate. In allegorical terms, the steward represents humanity, whose very life and breath are entrusted by God (the Master). The parable's narrative arc formally concludes in the middle of verse 8: *"for he had acted shrewdly."* In the commentary that follows (Luke 16:8b), the "children of light" represent those who serve God, while the "children of this world" represent the secular, faithless generation.
 
-A steward is someone entrusted with managing the master's property. This likely symbolizes all human beings who receive life and existence from God, the ultimate Master. The parable itself ends midway through verse 8: *"because he had acted shrewdly."* In the latter half of verse 8, the "people of the light" represent believers, while the "people of this world" symbolize non-believers.
+What was the best course of action the steward should have taken from the very beginning? It was not embezzlement and falsification, but faithful stewardship.
 
-What was the best path the steward should have chosen from the beginning? It was faithful management, not embezzlement and breach of trust.
+When the master commended the steward's shrewdness, he was merely evaluating the man's post-facto response to an already botched situation. The master’s decision not to prosecute or punish the steward further for slashing the debts is an illustration of the master's exceptional magnanimity, not a validation of the steward’s righteousness. The master fired him, but he did not harbor such malice as to desire his utter ruin. Had that been the case, he would have mercilessly pursued legal restitution for the new breach of trust. Instead, he marveled at the steward's desperate survival instincts and cunning efforts to avert total catastrophe, commending his sheer wit. Under the Law of Moses (Exodus 22; Leviticus 6), the master had every legal right to demand full restitution plus a 20% penalty—or even two- to five-fold damages—yet he chose not to enforce it. This illustrates the mercy and grace of God, who is symbolized by the master.
 
-The master praised the steward's shrewdness, but this was merely an evaluation of his desperate post-crisis management after the embezzlement and dismissal had already occurred. The master didn't punish him further for reducing the debts, not because the steward's actions were righteous, but simply because the master was exceptionally generous. The master fired him but did not hate him or wish for his utter ruin. Otherwise, he would have investigated and punished the new crime. Instead, he was relieved that the steward desperately tried to avoid a catastrophic future and praised his cunning survival instinct. According to the Law (Exodus 22, Leviticus 6), the master could have demanded the embezzled amount plus a 20% penalty, or even 2 to 5 times in restitution, but he did not. This symbolizes the mercy and compassion of God.
+The steward canceled a portion of the debts strictly for his own self-preservation. The bond formed between the steward and the debtors was not rooted in righteousness or loyalty; it was a purely transactional relationship based on financial gain. The upper limit of the goodwill the steward could reasonably expect from these debtors was exactly equal to the value of the forgiven debt: 50 measures of olive oil and 20 measures of wheat. Once the act was done, it was a past event. The debtors had zero incentive to remain faithful to a former manager who no longer possessed the authority to grant further favors. Therefore, an act of betrayal against the master could never purchase true friendship or an "eternal home."
 
-The steward reduced the debts for his own benefit. The "friendship" between the steward and the debtors was not based on righteousness or faithfulness, but on financial gain. The limit of the favor the steward could expect from them was exactly the amount of debt he forgave (50 measures of olive oil, 20 measures of wheat). Furthermore, by the time the steward actually needed a place to stay, his debt-forgiving action was already in the past. The debtors had no reason to remain loyal to a fired steward who no longer had the authority to forgive debts. Therefore, the steward could never gain an "eternal dwelling" or true friendship through a breach of trust against his master.
+Some commentators attempt to salvage the steward's morality by arguing from 1st-century Jewish economic customs, suggesting that the portion the steward wrote off was not the master's principal, but rather the steward's own brokerage commission or surcharge. Even if this were true, the limit of the goodwill he could receive remains fixed at 50 measures of oil and 20 measures of wheat. Under this theory, the steward traded a guaranteed sum of money owed to him for the volatile, uncertain goodwill of strangers—which is foolish rather than shrewd. Such an interpretation directly undermines the master's commendation of the man's shrewdness.
 
-### Other Inconsistent Interpretations
+Other scholars argue that the steward’s actions elevated the master’s public honor and reputation as a generous benefactor in the community, prompting the master to praise him. This logic is equally flawed. For the master's reputation to rise, the decision to forgive the debts must have been perceived as originating from the master himself, reducing the steward to a mere errand boy. If so, why would the debtors feel any personal gratitude toward the dismissed steward or feel obligated to welcome him into their homes?
 
-Some pastors argue that, considering 1st-century Jewish economic customs, the forgiven portion was not the master's property but the steward's own commission/incentive. However, this doesn't change the fact that the favor he could gain was limited to that exact amount. If this interpretation holds, the steward foolishly traded his guaranteed commission for an uncertain expectation of future favors from others. This contradicts the master praising him for being "shrewd."
+Finally, interpreting the steward’s dismissal as an allegory for death and the Final Judgment creates an irreconcilable theological mismatch: death and divine judgment occur according to God’s sovereign timetable, whereas the steward's firing was triggered entirely by his own individual criminal negligence. Existing alternative interpretations remain superficial, missing the central message by cherry-picking isolated elements of the narrative.
 
-Others suggest the steward improved the master's social reputation by forgiving the debts, which is why the master praised him. This is also illogical. For the master's reputation to improve, the decision to forgive debts must be seen as the master's own. The steward would merely be executing orders. If so, there is no reason for the debtors to feel indebted to the *steward* and provide him with a home after he is fired.
+---
 
-Still others view the dismissal as a metaphor for death and the final judgment. However, death and judgment unfold according to God's plan, whereas the steward's dismissal was purely the result of his own sin, creating a mismatch in logical layers. Thus, existing alternative interpretations are superficial, miss the core, or selectively cherry-pick parts of the parable.
-<br>
+### * In-Depth Inquiry: The Complete Collapse of the "Commission-Waiving Theory"
 
-## 3. My Attempt at an Interpretation
+Let us examine the popular "commission-waiving theory" in greater detail. This hypothesis posits that the recorded debts contained both the master's loan principal and the steward's service commission, and that the steward merely waived his personal cut. 
 
-Jesus viewed the money the steward secured after severing his relationship with the master as temporary and limited. He told his disciples to use worldly wealth to make friends, so that when it is gone, they will be welcomed into eternal dwellings. However, as analyzed above, if one actually tries this, they will find that debtors do not provide an eternal place to stay.
+Why would the steward give up his commission? Consider the situation from his perspective:  
+His embezzlement has been exposed, and his master demands an accounting. The steward knows that the 50 measures of oil and 20 measures of wheat legally due to him will simply be seized by the master to offset his prior embezzlements. To evade this de facto asset forfeiture, he transfers the value to the debtors to buy their favor. In essence, he converts capital that would have been confiscated into social leverage. From the master’s perspective, this poses no net loss because the master's core claim remains intact once the commission is deducted.
 
-The "eternal dwelling" that the steward (humanity) needs cannot be provided by the debtors (money)—a relationship that ends when the profit dries up. It can only be provided by the Master (God). In this scenario, the truly shrewd action for survival would be to fall prostrate before the generous master—who even forgave his final breach of trust—truly repent, ask for forgiveness, and restore the relationship. The real meaning of *"use worldly wealth to gain friends for yourselves"* is not about bribing debtors with dirty money.
+While this argument sounds clever at first glance, it falls apart entirely once we crunch the actual economic figures:
 
-### Who are the "Friends"?
+1. **The Numbers and Absurd Interest Rates:**  
+   If the forgiven amounts represented the steward’s commission, the master’s share of the original 100 measures of oil and 100 measures of wheat would be 50 measures of oil and 80 measures of wheat.  
+   - 100 *baths* of oil (approx. 2,200 liters) was worth roughly 1,100 denarii.  
+   - 100 *kors* of wheat (approx. 22,000 liters) was worth roughly 2,520 denarii.  
+   - Out of the total debt value of 3,620 denarii, the steward wrote off 1,054 denarii.  
+   This means the steward’s personal commission accounted for a staggering **29.1%** of the total debt portfolio.
 
-Who exactly are the "friends" Jesus tells his disciples to make? As shown, nothing can be gained from the debtors. If we eliminate them, the only person left in the story is the Master. Relying solely on the process of elimination might seem suspicious. However, as if a puzzle piece perfectly falling into place, Jesus explicitly calls his disciples "friends" instead of servants in Luke 12:4 and John 15:15. Therefore, interpreting this as restoring trust and friendship with the Master by returning unrighteous wealth is much more natural and fits the narrative context perfectly.
+2. **The Logic of Profit Distribution:**  
+   For an owner to grant a manager a cut larger than his own net profit margin, that manager would have to be an indispensable genius. If the steward were that irreplaceable, the master would not have summarily fired him over a simple charge of waste. It is only reasonable to assume the master’s share must have been at least equal to, if not greater than, the steward’s cut.  
+   Under that conservative assumption, the markup/interest component of the total debt would be at least double 29.1%, or **58.2%** (approx. 60%). This implies the debtor borrowed 40 units of value and was forced to repay 100—an astronomical interest rate of **150%**.
 
-One might argue against viewing the "friend" as the Master because the original Greek word for 'friends' is plural. This can be defended in two ways. First, expressing God in the plural is not unnatural due to the concept of the Trinity. In Genesis 1:26, God says, *"Let **us** make mankind in **our** image, in **our** likeness."*
+3. **Psychological Incoherence:**  
+   If the steward were earning a 75% commission on the principal year after year, he would be as wealthy as his master. Why would a man generating such massive wealth resort to petty embezzlement? And if he had embezzled on top of these massive commissions, he would have amassed an enormous personal fortune. Why would such a wealthy individual be reduced to begging and worrying about ending up homeless on the street?
 
-The second defense is slightly more complex but holds greater theological meaning. Substituting the debtors as the "friends" is logically impossible, as their relationship is temporary and cannot guarantee an eternal dwelling. Therefore, let's shift the focus of "making friends" away from the debtors and toward the Master, and consider what it means to use wealth *for* the Master.
+4. **Flawed Commodity-Risk Assumptions:**  
+   Proponents of this theory arbitrarily argue that wheat had a low commission (20%) because it was a non-perishable "safe asset," while oil had a high commission (50%) because it was volatile and perishable. They celebrate this as proof of the parable's historical accuracy.  
+   However, this violates basic economic principles. Interest rates and loan markups are determined by **borrower credit risk**, not the physical perishability of the commodity once borrowed. Both wheat and oil are consumable goods; the real risk is whether the borrower possesses the capacity and willingness to repay. A loan of wheat to a fraudster is far riskier than a loan of oil to a wealthy general. Furthermore, if the interest on oil were absurdly higher, any rational borrower would simply borrow wheat, sell it for cash, buy oil at market rates, and repay the debt in wheat. Arbitrage would quickly equalize the effective interest rates.
 
-The Master, God, considers the act of loving one's neighbor as using wealth according to His command (Matthew 22:37-40). Furthermore, in Matthew 25:45, Jesus says, *"Whatever you did not do for one of the least of these, you did not do for me,"* revealing that loving one's neighbor is synonymous with serving God.
+5. **The Zero-Principal Paradox:**  
+   Take the oil debtor: If the steward’s 50-measure discount represents a 50% commission, and the master is entitled to an equal or greater profit margin (at least 50 measures), the interest/profit alone equals the entire 100-measure ledger balance! The principal loan amount would be **zero**. The debtor would be paying back 100 measures of oil without having received any initial loan. In such a scenario, the master is not a creditor; he is an extortionist.
 
-Therefore, even if the wealth was acquired unrighteously, if the steward uses it for his neighbors according to the Master's will, treating them as "friends," he ultimately participates in neighborly love in obedience to God. This grants him the "eternal dwelling" (salvation) from God. This shows a truly shrewd choice—not the unrealistic method of relying on debtors through further embezzlement, but making friends by loving neighbors *through* the Master. The debtors might even be among those beneficiaries. But if given through the Master rather than as a bribe, it becomes an act of sharing love with friends as neighbors. Here, loving one's neighbor is not a "means to earn salvation," but a fruit that flows naturally from the restored relationship with the ultimate Friend, God.
+Thus, the commission-waiving theory, while superficially appealing, is a house of cards that collapses the moment concrete mathematics and economic reality are applied.
 
-However, if someone feels it is irreverent to apply the term "friend" directly to God (even though Jesus allowed it), another interpretation is possible: the "friends" are the neighbors (especially the poor), and *"they will welcome you"* refers to God's hospitality revealed *through* the hospitality of the neighbors. In short, it can be read as: *"First restore the relationship by returning to the Master, and then make friends by sharing with your neighbors according to the Master's will."*
+---
 
-### The Virtue of the Steward That the Children of Light Lack
+## 3. A Coherent Reinterpretation
 
-Let's continue following Jesus' words. The children of light are not as shrewd as the people of this world. When one faithfully relies on God, there is no need to desperately rack one's brain or hustle like the unjust steward did. However, the children of light must shake off their laziness and learn the attitude and passion with which the people of this world live their daily lives. If the children of light serve God with such fervor and intensity, God will entrust them with even greater responsibilities. *"Whoever can be trusted with very little can also be trusted with much."* Jesus encourages his disciples to serve God with the same passion that worldly people chase money, but reminds them that they cannot serve both God and money simultaneously, urging them to choose God and remain children of light.
+Jesus recognized that the wealth the steward tried to secure while severed from his master was purely temporary and bounded. He told his disciples to use unrighteous wealth to make friends so that when it fails, they may be received into eternal dwellings. Yet, as demonstrated above, anyone who attempts to do this literally through worldly transactional relationships quickly discovers that worldly debtors cannot provide an "eternal dwelling."
 
-Ironically, the Pharisees, who loved money and needed this teaching the most, sneered at this parable. To them, faith and money could be pursued simultaneously. According to Deuteronomy 28, obeying God brings prosperity, and turning away brings poverty; therefore, being wealthy was not shameful. Conversely, poverty could imply disobedience. Seeing right through them, Jesus urged their spiritual awakening by telling them the story of Lazarus and the rich man. Perhaps Jesus believed that if these hardworking, worldly people became children of light, their spiritual potential would be immense, allowing them to be entrusted with crucial missions.
+The eternal dwelling that the steward (humanity) truly needs can only be provided by the **Master (God)**, not by transactional debtors (money/worldly connections). In the parable’s deeper context, the truly shrewd and wise action for the steward would have been to fall on his face before the remarkably generous master—who tolerated even his final breach of trust—repenting sincerely, seeking forgiveness, and restoring their relationship. 
 
-Seeing no significant reaction from the Pharisees, it seems they heard but did not understand, failing to receive forgiveness of sins. Because they lacked faith in Jesus, they likely dismissed this long story about the steward as incoherent nonsense, unworthy of their attention. On the other hand, even if the disciples didn't immediately grasp the meaning, they trusted that their Master—who only spoke the truth—would not speak empty words. They would have meditated deeply to figure it out or simply asked Jesus directly, stepping one step closer to the secrets of the Kingdom.
+Making friends with unrighteous wealth to gain an eternal dwelling does not mean using dirty money to buy worldly allies.
 
-### From Unjust Steward to Child of Light: Zacchaeus the Chief Tax Collector
+### Who is the True "Friend"?
+If the worldly debtors can offer nothing permanent, who is the "friend" Jesus speaks of? By process of elimination, the only other person in the narrative is the **Master**. 
 
-For future generations who would only meet Jesus through scripture, Luke provided a literary hint in Chapter 19. In Luke 19, we find the Parable of the Ten Minas, which symbolizes the wisdom and effort of those who serve God—a theme connected to the steward's parable in Chapter 16. Just before that story, the account of Zacchaeus, a chief tax collector who revered Jesus, is introduced. He desperately wanted to see Jesus but was too short to see over the crowd. He climbed a sycamore-fig tree, showing a profound earnestness that pleased Jesus. Perhaps having heard the rumor of Jesus telling a rich ruler to give all his wealth to the poor (Luke 18:22), Zacchaeus proactively offered to give half his possessions to the poor before Jesus even spoke. 
+This is not merely an argument from elimination. In Luke 12:4 and John 15:15, Jesus explicitly addresses his followers not as servants, but as **friends**. Therefore, the parable’s true contextual resolution is that one must restore trust and friendship with the Master by returning and utilizing one's entrusted wealth according to the Master's will.
 
-As a chief tax collector, he was virtually the living symbol of "unrighteous wealth." Yet, he used this unrighteous wealth for his "friends"—his neighbors. Jesus joyfully accepted this; donating just half, rather than all, was enough for Jesus to declare that salvation had come to his house. Luke seemingly presents Zacchaeus as the ideal role model of a "child of light" who acted as shrewdly as the unjust steward, but with deep faith.
+### Addressing the Plural "Friends" (*philous*)
+Some may object that the Greek word for friends (*philous*) is plural, making it grammatically difficult to refer solely to the Master (God). This can be resolved through the lens of active **neighborly love**:
 
-## 4. What Should We Learn from Jesus' Parable of the Unjust Steward?
+1. **Love of Neighbor as Service to God:**  
+   According to Matthew 22:37–40, loving one's neighbor is the practical fulfillment of God's command. Furthermore, in Matthew 25:40, 45, Jesus identifies directly with the vulnerable: *"Whatever you did not do for one of the least of these, you did not do for me."* Serving one's neighbor is functionally synonymous with serving God.
 
-Ultimately, the Parable of the Unjust Steward delivers Jesus' profound teaching to serve God and love our neighbors more desperately and wisely. 
+2. **The Fruit of Reconciliation:**  
+   Even if wealth was acquired or managed in an unrighteous world, when a person uses it for the needs of their neighbors according to the Master’s will, they make those neighbors "friends." Through this obedience, they receive the "eternal dwelling" granted by God. Neighborly love is not a transactional bribe for salvation; it is the natural fruit of a restored relationship with the Master—the ultimate Friend.
 
-Sometimes, when this parable is explained, we encounter interpretations that force the steward's actions into a superficial framework of "good deeds for people" (without adequately questioning whose property it was and how it was used) or obsess over the literal meaning of words, thereby missing the complex context and irony of the parable. When facing such disappointing interpretations, we realize all the more why Jesus said the "children of light" need to become more "shrewd" like the "people of this world."
+3. **God's Hospitality through Neighborly Hospitality:**  
+   For those hesitant to refer to God directly as a "friend," the plural friends can represent our neighbors (especially the poor). The phrase *"they may welcome you"* then denotes God's divine welcome manifested through the hospitality shown to the poor. The core imperative remains: **First restore your relationship with the Master, and then use your resources according to His will to love your neighbors as friends.**
 
-Perhaps humbly learning and utilizing "worldly wisdom"—such as a lawyer's logical analytical skills, a historian's contextual understanding, and a literary scholar's text interpretation abilities—can help the children of light explore biblical truths more deeply and responsibly, thereby cultivating their "shrewdness." Of course, this does not replace the essence of faith; rather, it is an effort to more clearly understand and practice the truth entrusted to us.
+### The Contrast: Children of Light vs. Children of this World
+Jesus notes that the children of light are often less shrewd than the children of this world. Those who rest comfortably in their faith can easily become complacent, lacking the desperate urgency, sharp focus, and industriousness that worldly people exhibit when fighting for their survival. 
 
-Ultimately, this parable throws down a powerful challenge: alongside faithful belief, we must equip ourselves with both the **"desperation and shrewdness"** to discern God's will in reality and execute it effectively, serving both God and our neighbors.
+Jesus challenges the children of light to awaken from their spiritual lethargy and adopt that same intensity, passion, and strategic clarity in serving God. If they apply such diligence to the Kingdom of God, the Master will entrust them with far greater responsibilities. Faithfulness in the smallest things proves readiness for the greatest. The call is to serve God with the same fierce dedication that worldly people dedicate to chasing wealth—while recognizing that one cannot serve both God and money.
+
+### The Historical Contrast: The Pharisees vs. Zacchaeus
+The money-loving Pharisees sneered at this teaching (Luke 16:14). In their theology, piety and material wealth were entirely compatible; Deuteronomy 28 taught that obedience brought material blessings, meaning wealth was a sign of divine favor and poverty a potential sign of sin. Discerning their hearts, Jesus immediately confronted them with the story of the Rich Man and Lazarus (Luke 16:19–31). Had those diligent Pharisees redirected their drive toward the Kingdom of Light, their spiritual impact would have been immense. Instead, because they lacked genuine faith, they dismissed Jesus’ discourse as nonsense, remaining blind and deaf to the truth.
+
+For future generations reading these accounts, Luke provides a clear narrative key in **Luke 19** through the story of **Zacchaeus** and the Parable of the Ten Minas:
+- Zacchaeus was a chief tax collector—the very epitome of "unrighteous wealth." 
+- Desperate to see Jesus, he cast aside his dignity and climbed a sycamore tree. 
+- Knowing Jesus had previously challenged a wealthy ruler to give away everything (Luke 18:22), Zacchaeus proactively stepped forward and pledged half of his possessions to the poor and fourfold restitution to anyone he had defrauded.
+- Zacchaeus used unrighteous wealth to serve his neighbors ("friends"), thereby restoring his relationship with God. Jesus immediately declared salvation over his household.
+
+In Zacchaeus, Luke presents the true role model of a child of light: a man who possessed the strategic decisiveness of the unjust steward, but redirected it toward genuine repentance, neighborly love, and wholehearted devotion to God.
+
+---
+
+### * A Theological Reflection on the Plural "Friends"
+
+The plural form of "friends" can also be approached through a Trinitarian lens. Within Christian orthodoxy, referring to God in the plural is a familiar motif. In Genesis 1:26, God says, *"Let us make man in our image, after our likeness."* While secular historical-critical scholarship often views this as a reference to a heavenly host or a plural of majesty, classical Christian theology has long seen in it an early shadow of the Triune Godhead. From a confessional perspective, the Trinity is not an artificial construct of Nicaea, but an eternal reality woven throughout Scripture. Finding traces of the Divine Plurality across the biblical text remains a rich and meaningful tradition of faith.
+
+---
+
+## 4. What Should We Learn from the Unjust Steward?
+
+The Parable of the Unjust Steward is, at its core, Jesus’ profound call for us to serve God and love our neighbors with **uncompromising urgency, strategic clarity, and wisdom**.
+
+Too often, commentators flatten this parable into a simplistic moral about "being kind to others" without examining whose property is involved or how it is being distributed, ignoring the deep irony and structural nuance of the text. When we see such superficial treatments, we realize why Jesus lamented that the children of light are not as shrewd as the children of this world.
+
+The children of light would do well to humbly cultivate the rigorous analytical precision of a jurist, the contextual discernment of a historian, and the nuanced literary sensitivity of a scholar. These intellectual tools do not replace the essence of faith; rather, they equip us to handle divine truth responsibly and comprehensively.
+
+Ultimately, this parable challenges us to combine **unwavering faith** with **practical shrewdness and profound urgency**, effectively carrying out God’s will to love Him and our neighbors in the real world.
 
 ---
 _The original Korean version is available at [here](https://b-613t.github.io/posts/luke-16-unjust-steward/)._
